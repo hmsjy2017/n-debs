@@ -1,0 +1,8 @@
+Package: n
+Version: 8.0.2
+Architecture: all
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/tj/n
+Description: Node version management
